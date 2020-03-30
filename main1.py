@@ -8,3 +8,6 @@ mpl.rcParams['font.sans-serif'] = ['SimHei']
 
 stoplist1=open('stoplist.txt','r')
 stoplist=stoplist1.read()
+#the first part of the programme
+#include diaoyong shujuku
+#important stoplist
